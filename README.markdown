@@ -1,5 +1,9 @@
 # ruby-gmail
 
+# THIS HAS BEEN FORKED HERE TO MAKE SURE WE ALWAYS HAVE ACCESS TO THIS REPO
+
+Original repo: [https://github.com/adimircolen/ruby-gmail](https://github.com/adimircolen/ruby-gmail)
+
 * Homepage: [http://dcparker.github.com/ruby-gmail/](http://dcparker.github.com/ruby-gmail/)
 * Code: [http://github.com/dcparker/ruby-gmail](http://github.com/dcparker/ruby-gmail)
 * Gem: [http://gemcutter.org/gems/ruby-gmail](http://gemcutter.org/gems/ruby-gmail)
